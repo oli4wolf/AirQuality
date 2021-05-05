@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\swiss\OneDrive\Documents\GitHub\AirQuality\PCB\Air-Quality.sch)
-    (date "03/19/21 21:45:31")
+    (date "04/18/21 22:40:43")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -45,7 +45,7 @@
       (tstamp 60552005))
     (comp (ref BZ1)
       (value Buzzer)
-      (footprint Buzzer_Beeper:Buzzer_12x9.5RM7.6)
+      (footprint Buzzer_Beeper:PUIAudio_SMT_0825_S_4_R)
       (datasheet ~)
       (libsource (lib Device) (part Buzzer) (description "Buzzer, polarized"))
       (sheetpath (names /) (tstamps /))
